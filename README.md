@@ -3,13 +3,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 
-- 👩🏻‍💻I’m an aspiring **Software Developer**
+- 👩🏻‍💻I’m an aspiring Software Developer
 
-- 📩 You can reach me at: **raa54@sfu.ca**
+- 📩 You can reach me at: raa54@sfu.ca
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raghad-alabdalla-134436276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raghad-alabdalla-134436276/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/raghad-alabdalla-134436276/](https://www.linkedin.com/in/raghad-alabdalla-134436276/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/raghad-alabdalla-134436276/](https://www.linkedin.com/in/raghad-alabdalla-134436276/)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
