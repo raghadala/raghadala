@@ -1,11 +1,11 @@
 <h1 align="center">Hi! I'm Raghad Alabdalla👋🏻</h1>
-<h2 align="center">Third year CS student at SFU.</h2>
+<h2 align="center">An aspiring Software Developer</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 
-- 👩🏻‍💻I’m an aspiring Software Developer
+- 👩🏻‍💻 I’m an aspiring Software Developer
 
-- 📩 You can reach me at: raa54@sfu.ca
+- 📩 You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-raghadalabdalla-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/raghad-alabdalla-134436276)
 
 - 📱 Connect with me: www.linkedin.com/in/raghad-alabdalla-134436276
 
