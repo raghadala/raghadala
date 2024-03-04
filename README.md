@@ -5,6 +5,8 @@
 
 - 👩🏻‍💻 I’m an aspiring Software Developer
 
+- 💭 My passion is exploring the innovations of software development.
+
 - 📩 You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-raghadalabdalla-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/raghad-alabdalla-134436276)
 
 
