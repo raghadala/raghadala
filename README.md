@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Raghad Alabdalla👋🏻</h1>
-<p align="center">An aspiring Software Developer</p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"><br>
+
 
 
 - 👩🏻‍💻 I’m an aspiring Software Developer
